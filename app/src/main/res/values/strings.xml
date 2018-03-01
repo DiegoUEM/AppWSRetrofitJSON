@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppWSRetrofitJSON</string>
+    <string name="btnConsumir">Consumir Web Service</string>
+</resources>
